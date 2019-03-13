@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="9becb719-21b8-4fed-8e22-bcfe61f49594" name="Myconn" url="http://student.ssh.inf.ed.ac.uk">
+        <fileTransfer host="student.ssh.inf.ed.ac.uk" port="22" rootFolder="/afs/inf.ed.ac.uk/user/s18/s1817788" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
